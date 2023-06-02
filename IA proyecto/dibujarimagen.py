@@ -11,5 +11,7 @@ img= cv2.imread("IA proyecto/mapaIA.jpg",cv2.IMREAD_GRAYSCALE)
 
  #Mostrar La imagen, esperar tecla para cerrar y destruir ventanas
 cv2.imshow('Imagen IA',img)
+
+
 cv2.waitKey(0)
 cv2.destroyAllWindows()
