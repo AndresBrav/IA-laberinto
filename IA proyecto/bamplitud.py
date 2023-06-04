@@ -1,4 +1,5 @@
 from collections import deque
+from Casilla import *
 lista=[]
 
 def bfs(graph, start, goal):
@@ -19,7 +20,7 @@ def bfs(graph, start, goal):
 # Ejemplo de uso
 
 # Definir el grafo como un diccionario de listas de adyacencia
-graph = {
+"""graph = {
     'A': ['B', 'C'],
     'B': ['A', 'D', 'E'],
     'C': ['A', 'F'],
@@ -27,7 +28,17 @@ graph = {
     'E': ['B', 'F'],
     'F': ['C', 'E','G'],
     'G':['F']
-}
+}"""
+Sucre=Casilla("Sucre",1,"50",3)
+graph = {
+    'Sucre': ['Bascope'],
+    'Bascope': ['Perez1'],
+    'Perez1': ['Perez2','A71'],
+    'A71':['Perez1','A72'],
+    'A72':['A71','Br24'],
+    'Perez2': ['Perez1','Perez3'],
+    'Perez3':['Perez2','Perez4','Lopez1','Lopez2']
+    }
 def ingresarALista(cola):
     i=cola.__len__()-1
     while (i>=0):

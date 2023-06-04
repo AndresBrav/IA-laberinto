@@ -1,7 +1,7 @@
 from Casilla import *
 lista=[]
 lista.append(Casilla("tomas Bascope"))
-lista.append(Casilla("Paola Uzeda"))
+lista.append(Casilla("Paola "))
 lista.append(Casilla("Andres"))
 lista.append(Casilla("Bravo"))
 
