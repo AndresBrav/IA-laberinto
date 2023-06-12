@@ -32,7 +32,7 @@ def bfs(graph, start, goal):
     'F': ['C', 'E','G'],
     'G':['F']
 }"""
-Sucre=Casilla("Sucre",1,"50",3)
+
 graph = {
     'Sucre': ['Bascope'],
     'Bascope': ['Perez1'],
@@ -77,5 +77,5 @@ else:
     print(f"No se encontró un camino de {start_node} a {goal_node}.")
 
 #agregamos para graficar
-GraficarRecorrido(lista)
+cargarGrafico(lista)
 

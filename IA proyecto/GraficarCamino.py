@@ -1,17 +1,42 @@
 import cv2
 from Casilla import *
+lista=[]
+sucre=Casilla('Sucre',50,1)
+bascope=Casilla("Bascope",50,2)
+Perez1=Casilla("Perez1",45,1)
 
-#sucre=Casilla('Sucre',1,50,1)
 
-def GraficarRecorrido(listaRecorrido):
-    lista=[]
-    lista=listaRecorrido
-    print(lista[1],"ejemplo de que funciona")
-    cargarGrafico()
-
-def cargarGrafico():
+def cargarGrafico(listaRecorrido):
     img=cv2.imread("IA proyecto/mapaIA5.jpg")
-    
+    lista=listaRecorrido
+    dist=0
+    tiempo=0
+    try:
+        if "Sucre" in lista:
+                Sucre(img)
+                dist=dist+sucre.getDistancia()
+                tiempo=tiempo+sucre.getTRecorrido()
+
+        if "Bascope" in lista:
+             Bascope(img)
+             dist=dist+bascope.getDistancia()
+             tiempo=tiempo+bascope.getTRecorrido()
+        if "Perez1" in lista:
+             perez1(img)
+             dist=dist+Perez1.getDistancia()
+             tiempo=tiempo+Perez1.getTRecorrido()
+
+
+    except Exception:
+         print("problemassssssssssss")
+
+    print(dist)
+    print(tiempo)    
+    cv2.imshow('img',img)
+    cv2.waitKey(0)
+    cv2.destroyAllWindows()
+
+"""
     graficarSucre(img)
     Bascope(img)
     perez1(img)
@@ -100,13 +125,9 @@ def cargarGrafico():
     ayacucho1(img)
     ayacucho2(img)
     ayacucho3(img)
-
-
-    cv2.imshow('img',img)
-    cv2.waitKey(0)
-    cv2.destroyAllWindows()
+    """
     
-def graficarSucre(img):
+def Sucre(img):
     for i in range(11,23):
         img[33,i]=(0,0,255) 
         img[34,i]=(0,0,255)
@@ -456,7 +477,6 @@ def santa(img):
         img[i-3,253]=(0,0,255)
         img[i-4,254]=(0,0,255)
         img[i-5,255]=(0,0,255)
-
 def BGalindo1(img):
         for i in range(41,93):
                 img[80,i]=(0,0,255) 
@@ -710,7 +730,7 @@ def ayacucho3(img):
                 img[j,286]=(0,0,255) 
                 img[j,287]=(0,0,255)
                 img[j,288]=(0,0,255)
-cargarGrafico()
+#cargarGrafico()
         
 
 
