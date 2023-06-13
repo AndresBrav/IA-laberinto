@@ -23,16 +23,7 @@ def bfs(graph, start, goal):
 # Ejemplo de uso
 
 # Definir el grafo como un diccionario de listas de adyacencia
-"""graph = {
-    'A': ['B', 'C'],
-    'B': ['A', 'D', 'E'],
-    'C': ['A', 'F'],
-    'D': ['B'],
-    'E': ['B', 'F'],
-    'F': ['C', 'E','G'],
-    'G':['F']
-}"""
-
+"""
 graph = {
     'Sucre': ['Bascope'],
     'Bascope': ['Perez1'],
@@ -49,9 +40,14 @@ graph = {
     'Bravo2': ['Bravo3','Torrez1','Juan1','Bravo1'],
     'Torrez1': ['Frias','Torrez2','Bravo2','Bravo1'],
     'Juan1': ['Bravo3','Frias','Juan2','Bravo2'],
-
-
     }
+"""
+#
+graph = {
+    'Bayern1': ['Bayern2']
+    
+}
+
 def ingresarALista(cola):
     i=cola.__len__()-1
     while (i>=0):

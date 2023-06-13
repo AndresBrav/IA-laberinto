@@ -7,20 +7,23 @@ Perez1=Casilla("Perez1",45,1)
 Perez2=Casilla("Perez2",45,1)
 Perez3=Casilla("Perez3",45,1)
 Perez4=Casilla("Perez4",45,1)
+Lopez1=Casilla("Lopez1",75,1)
+Frias=Casilla("Frias",45,1)
 
+"""Seccion Loida"""
+Bayern1=Casilla("Bayern1",100,2)
 
-
-def cargarGrafico():
+def cargarGrafico(listaRecorrido):
     img=cv2.imread("IA proyecto/mapaIA5.jpg")
-    #lista=listaRecorrido
+    lista=listaRecorrido
     dist=0
     tiempo=0
-    """
+    
     try:
         if "Sucre" in lista:
-                Sucre(img)
-                dist=dist+sucre.getDistancia()
-                tiempo=tiempo+sucre.getTRecorrido()
+                Sucre(img) #se dibuja en la imgen
+                dist=dist+sucre.getDistancia() # suma distancias
+                tiempo=tiempo+sucre.getTRecorrido() #suma el tiempo de recorrido
 
         if "Bascope" in lista:
              Bascope(img)
@@ -43,6 +46,24 @@ def cargarGrafico():
              perez1(img)
              dist=dist+Perez4.getDistancia()
              tiempo=tiempo+Perez4.getTRecorrido()
+        if "Lopez1" in lista:
+            lopez1(img)
+            dist=dist+Lopez1.getDistancia()
+            tiempo=tiempo+Lopez1.getTRecorrido()
+
+        if "Frias" in lista:
+            frias(img)
+            dist=dist+Frias.getDistancia()
+            tiempo=tiempo+Frias.getTRecorrido()
+
+
+        """Seccion de Loida"""
+        if "Bayern1" in lista:
+            bayern1(img)
+            dist=dist+Bayern1.getDistancia()
+            tiempo=tiempo+Bayern1.getTRecorrido()
+        
+
 
 
     except Exception:
@@ -50,14 +71,9 @@ def cargarGrafico():
 
     print(dist)
     print(tiempo)
-    """    
-
-    Sucre(img)
-    Bascope(img)
-    perez1(img)
-    perez2(img)
-    perez3(img)
-    perez4(img)
+        
+    """
+   
     lopez1(img)
     lopez2(img)
     lopez3(img)
@@ -587,7 +603,7 @@ def cargarGrafico():
     rasmus1(img)
     rasmus2(img)
     rasmus3(img)
-
+    """
     cv2.imshow('img',img)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
@@ -2119,7 +2135,7 @@ def rasmus2(img):
 def rasmus3(img):
     pintarvertical(img,150,25,610,6)
 
-cargarGrafico()
+#cargarGrafico()
         
 
 
