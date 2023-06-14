@@ -1,7 +1,7 @@
 import cv2
 from Casilla import *
 lista=[]
-sucre=Casilla('Sucre',50,1)
+sucre=Casilla("Sucre",50,1)
 bascope=Casilla("Bascope",50,2)
 Perez1=Casilla("Perez1",45,1)
 Perez2=Casilla("Perez2",45,1)
@@ -13,8 +13,43 @@ Frias=Casilla("Frias",45,1)
 """Seccion Loida"""
 Bayern1=Casilla("Bayern1",100,2)
 
+def pintarvertical2(img,iniX,largo,iniY,ancho): 
+    try:
+        for i in range(iniY,iniY + largo):
+            for j in range (iniX,iniX+ancho):
+                img[i,j]=(0,255,50) 
+    except Exception:
+        print("error")
+
+def pintarhorizontal2(img,iniX,largo,iniY,ancho): 
+    try:
+        for i in range(iniX,iniX + largo):
+            for j in range (iniY,iniY+ancho):
+                img[j,i]=(0,255,0) 
+    except Exception:
+        print("error")
+
+def pintardiagonal2(img,iniX,largo,iniY,ancho):
+    try:
+        for i in range(0,ancho):
+            iniY=iniY+1
+            for j in range(0,largo):
+                img[iniY+j,iniX+j]=(0,255,50) 
+    except Exception:
+        print("error")
+
+def pintardiagonal22(img,iniX,largo,iniY,ancho):
+    try:
+        for i in range(0,ancho):
+            iniY=iniY+1
+            for j in range(0,largo):
+                img[iniY+j,iniX-j]=(0,255,0)   
+    except Exception:
+        print("error") 
+
 def cargarGrafico(listaRecorrido):
     img=cv2.imread("IA proyecto/mapaIA5.jpg")
+    #img=cv2.imread("c:/Users/molle/Downloads/Telegram Desktop/IA laberinto/IA proyecto/mapaIA5.jpg")
     lista=listaRecorrido
     dist=0
     tiempo=0
@@ -72,7 +107,7 @@ def cargarGrafico(listaRecorrido):
     print(dist)
     print(tiempo)
         
-    """
+    
    
     lopez1(img)
     lopez2(img)
@@ -603,7 +638,52 @@ def cargarGrafico(listaRecorrido):
     rasmus1(img)
     rasmus2(img)
     rasmus3(img)
-    """
+    
+#Roberto tu kchero
+    tromp1(img)
+    tromp2(img)
+    tromp3(img)
+    tromp4(img)
+    tromp5(img)
+    tromp6(img)
+    tromp7(img)
+    tromp8(img)
+    tromp9(img)
+
+    heroinas1(img)
+
+    espania(img)
+
+    franco(img)
+
+    chiriguano(img)
+
+    chaco(img)
+
+    juarez(img)
+
+    pando(img)
+
+    kiyosaki(img)
+
+    tapia(img)
+
+    lolo(img)
+
+    manfred(img)
+
+    peru(img)
+
+    wallstreet(img)
+
+    topater(img)
+
+    alegria(img)
+
+    avaroa(img)
+
+    esperanza(img)
+
     cv2.imshow('img',img)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
@@ -1212,7 +1292,7 @@ def ayacucho3(img):
                 img[j,286]=(0,0,255) 
                 img[j,287]=(0,0,255)
                 img[j,288]=(0,0,255)
-"""Empieza victor"""
+
 def pintarHorizontal(img,iniX,largo,iniY,ancho): 
     try:
         for i in range(iniX,iniX + largo):
@@ -2135,7 +2215,160 @@ def rasmus2(img):
 def rasmus3(img):
     pintarvertical(img,150,25,610,6)
 
-#cargarGrafico()
-        
+#Robert tu kchero
+#pintarvertical2(img,iniX,largo,iniY,ancho):
+def tromp1(img):
+    pintarvertical2(img,516,25,730,4)
+def tromp2(img):
+    pintarvertical2(img,516,25,690,4)
+def tromp3(img):
+    pintarvertical2(img,516,25,650,4)
+def tromp4(img):
+    pintarvertical2(img,516,25,610,4)
+def tromp5(img):
+    pintarvertical2(img,516,15,580,4)
+def tromp6(img):
+    pintarvertical2(img,516,25,480,4)
+def tromp7(img):
+    pintarvertical2(img,516,25,440,4)
+def tromp8(img):
+    pintarvertical2(img,516,25,400,4)
+def tromp9(img):
+    pintarvertical2(img,516,25,360,4)
 
+def heroinas1(img):
+    pintarhorizontal2(img,520,25,643,4)
+    pintarhorizontal2(img,560,25,643,4)
+    pintarhorizontal2(img,600,30,643,4)
+    pintardiagonal2(img,650,25,643,4)
+    pintardiagonal2(img,680,25,673,4)
+    pintardiagonal2(img,710,30,703,4)
+    pintardiagonal22(img,680,25,608,4)
+    pintardiagonal22(img,715,25,578,4)
+    pintardiagonal22(img,740,20,550,4)
+
+def espania(img):
+    pintarhorizontal2(img,716,25,550,4)
+    pintarhorizontal2(img,750,25,550,4)
+    pintarhorizontal2(img,680,25,550,4)
+    pintarhorizontal2(img,640,25,550,4)
+    pintarhorizontal2(img,600,25,550,4)
+    pintarhorizontal2(img,560,25,550,4)
+
+def franco(img):
+    pintarhorizontal2(img,775,25,520,3)
+    pintarhorizontal2(img,745,25,520,3)
+    pintarhorizontal2(img,715,25,520,3)
+    pintarhorizontal2(img,685,20,520,3)
+
+def chiriguano(img):
+    pintarhorizontal2(img,775,25,465,3)
+    pintarhorizontal2(img,735,25,465,3)
+    pintarhorizontal2(img,705,20,465,3)
+
+def chaco(img):
+    pintarhorizontal2(img,778,20,436,3)
+    pintarhorizontal2(img,748,20,437,3)
+    pintarhorizontal2(img,718,20,437,3)
+    
+
+def juarez(img):
+    pintarhorizontal2(img,753,20,410,3)
+    pintarhorizontal2(img,718,20,410,3)
+    pintarhorizontal2(img,675,20,410,3)
+    pintarhorizontal2(img,645,20,410,3)
+    pintarhorizontal2(img,615,20,410,3)
+
+def pando(img):
+    pintarhorizontal2(img,778,20,373,3)
+    pintarhorizontal2(img,748,20,373,3)
+    pintarhorizontal2(img,723,20,373,3)
+    pintarhorizontal2(img,680,20,373,3)
+    pintarhorizontal2(img,650,20,373,3)
+    pintarhorizontal2(img,650,20,676,3)
+
+def kiyosaki(img):
+    pintarhorizontal2(img,620,20,676,3)
+    pintarhorizontal2(img,590,20,676,3)
+    pintarhorizontal2(img,560,20,676,3)
+
+def tapia(img):
+    pintarhorizontal2(img,680,20,712,3)
+    pintarhorizontal2(img,640,20,712,3)
+    pintarhorizontal2(img,600,20,712,3)
+    pintarhorizontal2(img,580,10,712,3)
+
+def lolo(img):
+    pintarvertical2(img,600,25,735,3)
+    pintarvertical2(img,600,25,700,3)
+
+def manfred(img):
+    pintarvertical2(img,572,25,735,3)
+    pintarvertical2(img,572,25,700,3)
+    pintarvertical2(img,572,25,665,3)
+    pintarvertical2(img,572,25,630,3)
+
+def peru(img):
+    pintarvertical2(img,627,25,690,3)
+    pintarvertical2(img,627,25,640,3)
+    pintarvertical2(img,627,25,600,3)
+    pintarvertical2(img,627,25,560,3)
+    pintarvertical2(img,651,25,600,3)
+    pintarvertical2(img,651,25,560,3)
+    pintarvertical2(img,683,25,560,3)
+
+def wallstreet(img):
+    pintardiagonal22(img,615,10,527,8)
+    pintardiagonal22(img,635,10,516,8)
+    pintardiagonal22(img,655,10,502,8)
+    pintardiagonal22(img,675,10,484,8)
+    pintardiagonal22(img,695,10,456,8)
+    pintardiagonal22(img,705,8,420,10)
+    pintardiagonal22(img,710,8,395,10)
+    pintarvertical2(img,705,10,380,6)
+    pintarvertical2(img,705,10,360,6)
+
+def topater(img):
+    pintardiagonal22(img,555,6,488,6)
+    pintardiagonal22(img,575,6,484,6)
+    pintardiagonal22(img,593,6,478,6)
+    pintardiagonal22(img,611,6,468,6)
+    pintardiagonal22(img,631,6,458,6)
+    pintardiagonal22(img,646,6,443,6)
+    pintardiagonal22(img,660,6,417,6)
+    pintarvertical2(img,658,10,400,4)
+    pintarvertical2(img,658,10,380,4)
+
+def alegria(img):
+    pintardiagonal2(img,560,6,525,6)
+    pintardiagonal2(img,560,6,505,6)
+    pintardiagonal2(img,560,6,485,6)
+    pintardiagonal2(img,560,6,465,6)
+    pintardiagonal2(img,560,6,450,6)
+
+def avaroa(img):
+    pintardiagonal2(img,600,6,430,6)
+    pintardiagonal2(img,617,6,450,6)
+    pintardiagonal2(img,636,6,470,6)
+    pintardiagonal2(img,650,6,490,6)
+    pintardiagonal2(img,630,6,422,6)
+    pintardiagonal2(img,645,6,435,6)
+    pintardiagonal2(img,655,6,445,6)
+    pintardiagonal2(img,666,6,451,6)
+
+def esperanza(img):
+    pintarvertical2(img,751,20,415,4)
+    pintarvertical2(img,751,20,385,4)
+    
+    pintarvertical2(img,548,15,565,4)
+    pintarvertical2(img,548,15,585,4)
+    pintarvertical2(img,548,15,605,4)
+    pintarvertical2(img,548,15,625,4)
+    pintarvertical2(img,548,15,645,4)
+    pintarvertical2(img,545,15,665,4)
+    pintarvertical2(img,545,15,685,4)
+    pintarvertical2(img,545,15,705,4)
+
+cargarGrafico(lista)
+        
 
