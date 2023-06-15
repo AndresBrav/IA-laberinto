@@ -17,7 +17,7 @@ def pintarvertical2(img,iniX,largo,iniY,ancho):
     try:
         for i in range(iniY,iniY + largo):
             for j in range (iniX,iniX+ancho):
-                img[i,j]=(0,255,50) 
+                img[i,j]=(0,0,255) 
     except Exception:
         print("error")
 
@@ -25,7 +25,7 @@ def pintarhorizontal2(img,iniX,largo,iniY,ancho):
     try:
         for i in range(iniX,iniX + largo):
             for j in range (iniY,iniY+ancho):
-                img[j,i]=(0,255,0) 
+                img[j,i]=(0,0,255) 
     except Exception:
         print("error")
 
@@ -34,7 +34,7 @@ def pintardiagonal2(img,iniX,largo,iniY,ancho):
         for i in range(0,ancho):
             iniY=iniY+1
             for j in range(0,largo):
-                img[iniY+j,iniX+j]=(0,255,50) 
+                img[iniY+j,iniX+j]=(0,0,255) 
     except Exception:
         print("error")
 
@@ -43,7 +43,7 @@ def pintardiagonal22(img,iniX,largo,iniY,ancho):
         for i in range(0,ancho):
             iniY=iniY+1
             for j in range(0,largo):
-                img[iniY+j,iniX-j]=(0,255,0)   
+                img[iniY+j,iniX-j]=(0,0,255)   
     except Exception:
         print("error") 
 
