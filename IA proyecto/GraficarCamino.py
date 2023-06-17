@@ -9,9 +9,189 @@ Perez3=Casilla("Perez3",45,1)
 Perez4=Casilla("Perez4",45,1)
 Lopez1=Casilla("Lopez1",75,1)
 Frias=Casilla("Frias",45,1)
+Gotham1=Casilla("Gotham1",45,1)
+Gotham2=Casilla("Gotham2",45,1)
+Gotham3=Casilla("Gotham3",45,1)
+Gotham4=Casilla("Gotham4",45,1)
+Gotham5=Casilla("Gotham5",45,1)
+Gotham6=Casilla("Gotham6",45,1)
 
+
+Acacia1=Casilla("Acacia1",45,1)
+Acacia2=Casilla("Acacia2",45,1)
+Acacia3=Casilla("Acacia3",45,1)
+Acacia4=Casilla("Acacia4",45,1)
+Acacia5=Casilla("Acacia5",45,1)
+
+Esquina1=Casilla("Esquina1",45,1)
+Esquina2=Casilla("Esquina2",45,1)
+Carnaby1=Casilla("Carnaby1",45,1)
+Carnaby2=Casilla("Carnaby2",45,1)
+Carnaby3=Casilla("Carnaby3",45,1)
+Carnaby4=Casilla("Carnaby4",45,1)
+
+Acme1=Casilla("Acme1",45,1)
+Acme2=Casilla("Acme2",45,1)
+Acme3=Casilla("Acme3",45,1)
+
+B11=Casilla("B11",45,1)
+B12=Casilla("B12",45,1)
+B13=Casilla("B13",45,1)
+
+Elm=Casilla("Elm",45,1)
+
+Elmwood1=Casilla("Elmwood1",45,1)
+Elmwood2=Casilla("Elmwood2",45,1)
+Elmwood3=Casilla("Elmwood3",45,1)
+Elmwood4=Casilla("Elmwood4",45,1)
+
+Bourbon1=Casilla("Bourbon1",45,1)
+Bourbon2=Casilla("Bourbon2",45,1)
+Bourbon3=Casilla("Bourbon3",45,1)
+Bourbon4=Casilla("Bourbon4",45,1)
+Bourbon5=Casilla("Bourbon5",45,1)
+
+Baker1=Casilla("Baker1",45,1)
+Baker2=Casilla("Baker2",45,1)
+Baker3=Casilla("Baker3",45,1)
+Baker4=Casilla("Baker4",45,1)
+Melrose1=Casilla("Melrose1",45,1)
+Melrose2=Casilla("Melrose2",45,1)
+Melrose3=Casilla("Melrose3",45,1)
+Melrose4=Casilla("Melrose4",45,1)
+Southpark1=Casilla("Southpark1",45,1)
+Southpark2=Casilla("Southpark2",45,1)
+Southpark3=Casilla("Southpark3",45,1)
+Southpark4=Casilla("Southpark4",45,1)
+Southpark5=Casilla("Southpark5",45,1)
+Southpark6=Casilla("Southpark6",45,1)
+Southpark7=Casilla("Southpark7",45,1)
+Southpark8=Casilla("Southpark8",45,1)
+B21=Casilla("B21",45,1)
+B22=Casilla("B22",45,1)
+B23=Casilla("B23",45,1)
+Wallstreet1=Casilla("Wallstreet1",45,1)
+Wallstreet2=Casilla("Wallstreet2",45,1)
+Wallstreet3=Casilla("Wallstreet3",45,1)
+Wallstreet4=Casilla("Wallstreet4",45,1)
+Wallstreet5=Casilla("Wallstreet5",45,1)
+A11=Casilla("A11",45,1)
+A21=Casilla("A21",45,1)
+Arkham1=Casilla("Arkham1",45,1)
+Arkham2=Casilla("Arkham2",45,1)
+Arkham3=Casilla("Arkham3",45,1)
+Foster1=Casilla("Foster1",45,1)
+Foster2=Casilla("Foster2",45,1)
+Piedradura1=Casilla("Piedradura1",45,1)
+Piedradura2=Casilla("Piedradura2",45,1)
+Piedradura3=Casilla("Piedradura3",45,1)
+Nogal1=Casilla("Nogal1",45,1)
+Nogal2=Casilla("Nogal2",45,1)
+Nogal3=Casilla("Nogal3",45,1)
+Nogal4=Casilla("Nogal4",45,1)
+C1=Casilla("C1",45,1)
+C2=Casilla("C2",45,1)
+C3=Casilla("C3",45,1)
+Mar1=Casilla("Mar1",45,1)
+Mar2=Casilla("Mar2",45,1)
+Mar3=Casilla("Mar3",45,1)
+Olmos1=Casilla("Olmos1",45,1)
+Olmos2=Casilla("Olmos2",45,1)
+Olmos3=Casilla("Olmos3",45,1)
+Olmos4=Casilla("Olmos4",45,1)
+Olmos5=Casilla("Olmos5",45,1)
+Siempreviva1=Casilla("Siempreviva1",45,1)
+Siempreviva2=Casilla("Siempreviva2",45,1)
+Siempreviva3=Casilla("Siempreviva3",45,1)
+Siempreviva4=Casilla("Siempreviva4",45,1)
+Metroville1=Casilla("Metroville1",45,1)
+Metroville2=Casilla("Metroville2",45,1)
+Coronado1=Casilla("Coronado1",45,1)
+Coronado2=Casilla("Coronado2",45,1)
+Coronado3=Casilla("Coronado3",45,1)
+Coronado4=Casilla("Coronado4",45,1)
+Coronado5=Casilla("Coronado5",45,1)
+
+Salero1=Casilla("Salero1",45,1)
+Salero2=Casilla("Salero2",45,1)
+Salero3=Casilla("Salero3",45,1)
+Nintendo1=Casilla("Nintendo1",45,1)
+Nintendo2=Casilla("Nintendo2",45,1)
+Nintendo3=Casilla("Nintendo3",45,1)
+AbbeyRoad1=Casilla("AbbeyRoad1",45,1)
+AbbeyRoad2=Casilla("AbbeyRoad2",45,1)
+AbbeyRoad3=Casilla("AbbeyRoad3",45,1)
+AbbeyRoad4=Casilla("AbbeyRoad4",45,1)
+AbbeyRoad5=Casilla("AbbeyRoad5",45,1)
+AbbeyRoad6=Casilla("AbbeyRoad6",45,1)
+AbbeyRoad7=Casilla("AbbeyRoad7",45,1)
+Elmwood21=Casilla("Elmwood21",45,1)
+Elmwood22=Casilla("Elmwood22",45,1)
+Elmwood23=Casilla("Elmwood23",45,1)
+Elmwood24=Casilla("Elmwood24",45,1)
+Peachtree1=Casilla("Peachtree1",45,1)
+Peachtree2=Casilla("Peachtree2",45,1)
+Peachtree3=Casilla("Peachtree3",45,1)
+Peachtree4=Casilla("Peachtree4",45,1)
+Peachtree5=Casilla("Peachtree5",45,1)
+Peachtree6=Casilla("Peachtree6",45,1)
+Peachtree7=Casilla("Peachtree7",45,1)
+Luna=Casilla("Luna",45,1)
+Luz=Casilla("Luz",45,1)
+D1=Casilla("D1",45,1)
+Vida=Casilla("Vida",45,1)
+Nube1=Casilla("Nube1",45,1)
+Nube2=Casilla("Nube2",45,1)
+Alba=Casilla("Alba",45,1)
+Brisa1=Casilla("Brisa1",45,1)
+Brisa2=Casilla("Brisa2",45,1)
+Aroma1=Casilla("Aroma1",45,1)
+Aroma2=Casilla("Aroma2",45,1)
+Aroma3=Casilla("Aroma3",45,1)
+Aroma4=Casilla("Aroma4",45,1)
+Aroma5=Casilla("Aroma5",45,1)
+Aroma6=Casilla("Aroma6",45,1)
+Aroma7=Casilla("Aroma7",45,1)
+Aroma8=Casilla("Aroma8",45,1)
+Elmore1=Casilla("Elmore1",45,1)
+Elmore2=Casilla("Elmore2",45,1)
+Elmore3=Casilla("Elmore3",45,1)
+Elmore4=Casilla("Elmore4",45,1)
+Elmore5=Casilla("Elmore5",45,1)
+Elmore6=Casilla("Elmore6",45,1)
+Elmore7=Casilla("Elmore7",45,1)
+Elmore8=Casilla("Elmore8",45,1)
+Elmore9=Casilla("Elmore9",45,1)
+Elmore10=Casilla("Elmore10",45,1)
+Elmore11=Casilla("Elmore11",45,1)
+Elmore12=Casilla("Elmore11",45,1)
+Springfield1=Casilla("Springfield1",45,1)
+Springfield2=Casilla("Springfield2",45,1)
+Springfield3=Casilla("Springfield3",45,1)
+Springfield4=Casilla("Springfield4",45,1)
+Springfield5=Casilla("Springfield5",45,1)
+Springfield6=Casilla("Springfield6",45,1)
+Springfield7=Casilla("Springfield7",45,1)
+Springfield8=Casilla("Springfield8",45,1)
+Springfield9=Casilla("Springfield9",45,1)
+Springfield10=Casilla("Springfield10",45,1)
+Springfield11=Casilla("Springfield11",45,1)
+Springfield12=Casilla("Springfield12",45,1)
+Springfield13=Casilla("Springfield13",45,1)
+Springfield14=Casilla("Springfield14",45,1)
+Springfield15=Casilla("Springfield15",45,1)
+Springfield16=Casilla("Springfield16",45,1)
+Millaverde1=Casilla("Millaverde1",45,1)
+Millaverde2=Casilla("Millaverde2",45,1)
+Millaverde3=Casilla("Millaverde3",45,1)
+Millaverde4=Casilla("Millaverde4",45,1)
+Millaverde5=Casilla("Millaverde5",45,1)
+Millaverde6=Casilla("Millaverde6",45,1)
+Millaverde7=Casilla("Millaverde7",45,1)
+Millaverde8=Casilla("Millaverde8",45,1)
+CSol=Casilla("CSol",45,1)
 """Seccion Loida"""
-Bayern1=Casilla("Bayern1",100,2)
+
 
 def cargarGrafico(listaRecorrido):
     img=cv2.imread("IA proyecto/mapaIA5.jpg")
@@ -26,26 +206,26 @@ def cargarGrafico(listaRecorrido):
                 tiempo=tiempo+sucre.getTRecorrido() #suma el tiempo de recorrido
 
         if "Bascope" in lista:
-             Bascope(img)
-             dist=dist+bascope.getDistancia()
-             tiempo=tiempo+bascope.getTRecorrido()
+            Bascope(img)
+            dist=dist+bascope.getDistancia()
+            tiempo=tiempo+bascope.getTRecorrido()
         if "Perez1" in lista:
-             perez1(img)
-             dist=dist+Perez1.getDistancia()
-             tiempo=tiempo+Perez1.getTRecorrido()
+            perez1(img)
+            dist=dist+Perez1.getDistancia()
+            tiempo=tiempo+Perez1.getTRecorrido()
         if "Perez2" in lista:
-                perez2(img)
-                dist=dist+Perez2.getDistancia()
-                tiempo=tiempo+Perez2.getTRecorrido()
+            perez2(img)
+            dist=dist+Perez2.getDistancia()
+            tiempo=tiempo+Perez2.getTRecorrido()
 
         if "Perez3" in lista:
-             perez3(img)
-             dist=dist+Perez3.getDistancia()
-             tiempo=tiempo+Perez3.getTRecorrido()
+            perez3(img)
+            dist=dist+Perez3.getDistancia()
+            tiempo=tiempo+Perez3.getTRecorrido()
         if "Perez4" in lista:
-             perez1(img)
-             dist=dist+Perez4.getDistancia()
-             tiempo=tiempo+Perez4.getTRecorrido()
+            perez1(img)
+            dist=dist+Perez4.getDistancia()
+            tiempo=tiempo+Perez4.getTRecorrido()
         if "Lopez1" in lista:
             lopez1(img)
             dist=dist+Lopez1.getDistancia()
@@ -56,558 +236,869 @@ def cargarGrafico(listaRecorrido):
             dist=dist+Frias.getDistancia()
             tiempo=tiempo+Frias.getTRecorrido()
 
+        """Seccion de victor"""  
+             
+        if "Gotham1" in lista:
+            gotham1(img)
+            dist = dist + Gotham1.getDistancia()
+            tiempo = tiempo + Gotham1.getTRecorrido()
+        if "Gotham2" in lista:
+            gotham2(img)
+            dist = dist + Gotham2.getDistancia()
+            tiempo = tiempo + Gotham2.getTRecorrido()
+        if "Gotham3" in lista:
+            gotham3(img)
+            dist = dist + Gotham3.getDistancia()
+            tiempo = tiempo + Gotham3.getTRecorrido()
 
-        """Seccion de Loida"""
-        if "Bayern1" in lista:
-            bayern1(img)
-            dist=dist+Bayern1.getDistancia()
-            tiempo=tiempo+Bayern1.getTRecorrido()
+        if "Gotham4" in lista:
+            gotham4(img)
+            dist = dist + Gotham4.getDistancia()
+            tiempo = tiempo + Gotham4.getTRecorrido()
+
+        if "Gotham5" in lista:
+            gotham5(img)
+            dist = dist + Gotham5.getDistancia()
+            tiempo = tiempo + Gotham5.getTRecorrido()
+
+        if "Gotham6" in lista:
+            gotham6(img)
+            dist = dist + Gotham6.getDistancia()
+            tiempo = tiempo + Gotham6.getTRecorrido()
+
+        if "Acacia1" in lista:
+            acacia1(img)
+            dist = dist + Acacia1.getDistancia()
+            tiempo = tiempo + Acacia1.getTRecorrido()
+
+        if "Acacia2" in lista:
+            acacia2(img)
+            dist = dist + Acacia2.getDistancia()
+            tiempo = tiempo + Acacia2.getTRecorrido()
         
+        if "Acacia3" in lista:
+            acacia3(img)
+            dist = dist + Acacia3.getDistancia()
+            tiempo = tiempo + Acacia3.getTRecorrido()
 
+        if "Acacia4" in lista:
+            acacia4(img)
+            dist = dist + Acacia4.getDistancia()
+            tiempo = tiempo + Acacia4.getTRecorrido()
 
+        if "Acacia5" in lista:
+            acacia5(img)
+            dist = dist + Acacia5.getDistancia()
+            tiempo = tiempo + Acacia5.getTRecorrido()
 
+        if "Esquina1" in lista:
+            esquina1(img)
+            dist = dist + Esquina1.getDistancia()
+            tiempo = tiempo + Esquina1.getTRecorrido()
+
+        if "Esquina2" in lista:
+            esquina2(img)
+            dist = dist + Esquina2.getDistancia()
+            tiempo = tiempo + Esquina2.getTRecorrido()
+
+        if "Carnaby1" in lista:
+            carnaby1(img)
+            dist = dist + Carnaby1.getDistancia()
+            tiempo = tiempo + Carnaby1.getTRecorrido()
+            
+        if "Carnaby2" in lista:
+            carnaby2(img)
+            dist = dist + Carnaby2.getDistancia()
+            tiempo = tiempo + Carnaby2.getTRecorrido()
+
+        if "Carnaby3" in lista:
+            carnaby3(img)
+            dist = dist + Carnaby3.getDistancia()
+            tiempo = tiempo + Carnaby3.getTRecorrido()
+
+        if "Carnaby4" in lista:
+            carnaby4(img)
+            dist = dist + Carnaby4.getDistancia()
+            tiempo = tiempo + Carnaby4.getTRecorrido()
+
+        if "Acme1" in lista:
+            acme1(img)
+            dist = dist + Acme1.getDistancia()
+            tiempo = tiempo + Acme1.getTRecorrido()
+
+        if "Acme2" in lista:
+            acme2(img)
+            dist = dist + Acme2.getDistancia()
+            tiempo = tiempo + Acme2.getTRecorrido()
+
+        if "Acme3" in lista:
+            acme3(img)
+            dist = dist + Acme3.getDistancia()
+            tiempo = tiempo + Acme3.getTRecorrido()
+
+        if "B11" in lista:
+            b11(img)
+            dist = dist + B11.getDistancia()
+            tiempo = tiempo + B11.getTRecorrido()
+
+        if "B12" in lista:
+            b12(img)
+            dist = dist + B12.getDistancia()
+            tiempo = tiempo + B12.getTRecorrido()
+
+        if "B13" in lista:
+            b13(img)
+            dist = dist + B13.getDistancia()
+            tiempo = tiempo + B13.getTRecorrido()
+
+        if "Elm" in lista:
+            elm(img)
+            dist = dist + Elm.getDistancia()
+            tiempo = tiempo + Elm.getTRecorrido()
+
+        if "Elmwood1" in lista:
+            elmwood1(img)
+            dist = dist + Elmwood1.getDistancia()
+            tiempo = tiempo + Elmwood1.getTRecorrido()
+
+        if "Elmwood2" in lista:
+            elmwood2(img)
+            dist = dist + Elmwood2.getDistancia()
+            tiempo = tiempo + Elmwood2.getTRecorrido()
+
+        if "Elmwood3" in lista:
+            elmwood3(img)
+            dist = dist + Elmwood3.getDistancia()
+            tiempo = tiempo + Elmwood3.getTRecorrido()
+
+        if "Elmwood4" in lista:
+            elmwood4(img)
+            dist = dist + Elmwood4.getDistancia()
+            tiempo = tiempo + Elmwood4.getTRecorrido()
+
+        if "Bourbon1" in lista:
+            bourbon1(img)
+            dist = dist + Bourbon1.getDistancia()
+            tiempo = tiempo + Bourbon1.getTRecorrido()
+
+        if "Bourbon2" in lista:
+            bourbon2(img)
+            dist = dist + Bourbon2.getDistancia()
+            tiempo = tiempo + Bourbon2.getTRecorrido()
+
+        if "Bourbon3" in lista:
+            bourbon3(img)
+            dist = dist + Bourbon3.getDistancia()
+            tiempo = tiempo + Bourbon3.getTRecorrido()
+
+        if "Bourbon4" in lista:
+            bourbon4(img)
+            dist = dist + Bourbon4.getDistancia()
+            tiempo = tiempo + Bourbon4.getTRecorrido()
+
+        if "Bourbon5" in lista:
+            bourbon5(img)
+            dist = dist + Bourbon5.getDistancia()
+            tiempo = tiempo + Bourbon5.getTRecorrido()
+            
+        if "Baker1" in lista:
+            baker1(img)
+            dist = dist + Baker1.getDistancia()
+            tiempo = tiempo + Baker1.getTRecorrido()
+
+        if "Baker2" in lista:
+            baker2(img)
+            dist = dist + Baker2.getDistancia()
+            tiempo = tiempo + Baker2.getTRecorrido()
+
+        if "Baker3" in lista:
+            baker3(img)
+            dist = dist + Baker3.getDistancia()
+            tiempo = tiempo + Baker3.getTRecorrido()
+
+        if "Baker4" in lista:
+            baker4(img)
+            dist = dist + Baker4.getDistancia()
+            tiempo = tiempo + Baker4.getTRecorrido()
+
+        if "Melrose1" in lista:
+            melrose1(img)
+            dist = dist + Melrose1.getDistancia()
+            tiempo = tiempo + Melrose1.getTRecorrido()
+
+        if "Melrose2" in lista:
+            melrose2(img)
+            dist = dist + Melrose2.getDistancia()
+            tiempo = tiempo + Melrose2.getTRecorrido()
+
+        if "Melrose3" in lista:
+            melrose3(img)
+            dist = dist + Melrose3.getDistancia()
+            tiempo = tiempo + Melrose3.getTRecorrido()
+
+        if "Melrose4" in lista:
+            melrose4(img)
+            dist = dist + Melrose4.getDistancia()
+            tiempo = tiempo + Melrose4.getTRecorrido()
+
+        if "Southpark1" in lista:
+            southPark1(img)
+            dist = dist + Southpark1.getDistancia()
+            tiempo = tiempo + Southpark1.getTRecorrido()
+
+        if "Southpark2" in lista:
+            southPark2(img)
+            dist = dist + Southpark2.getDistancia()
+            tiempo = tiempo + Southpark2.getTRecorrido()
+            
+        if "Southpark3" in lista:
+            southPark3(img)
+            dist = dist + Southpark3.getDistancia()
+            tiempo = tiempo + Southpark3.getTRecorrido()
+
+        if "Southpark4" in lista:
+            southPark4(img)
+            dist = dist + Southpark4.getDistancia()
+            tiempo = tiempo + Southpark4.getTRecorrido()
+
+        if "Southpark5" in lista:
+            southPark5(img)
+            dist = dist + Southpark5.getDistancia()
+            tiempo = tiempo + Southpark5.getTRecorrido()
+
+        if "Southpark6" in lista:
+            southPark6(img)
+            dist = dist + Southpark6.getDistancia()
+            tiempo = tiempo + Southpark6.getTRecorrido()
+
+        if "Southpark7" in lista:
+            southPark7(img)
+            dist = dist + Southpark7.getDistancia()
+            tiempo = tiempo + Southpark7.getTRecorrido()
+
+        if "Southpark8" in lista:
+            southPark8(img)
+            dist = dist + Southpark8.getDistancia()
+            tiempo = tiempo + Southpark8.getTRecorrido()
+
+        if "B21" in lista:
+            b21(img)
+            dist = dist + B21.getDistancia()
+            tiempo = tiempo + B21.getTRecorrido()
+
+        if "B22" in lista:
+            b22(img)
+            dist = dist + B22.getDistancia()
+            tiempo = tiempo + B22.getTRecorrido()
+
+        if "B23" in lista:
+            b23(img)
+            dist = dist + B23.getDistancia()
+            tiempo = tiempo + B23.getTRecorrido()
+
+        if "Wallstreet1" in lista:
+            wallStreet1(img)
+            dist = dist + Wallstreet1.getDistancia()
+            tiempo = tiempo + Wallstreet1.getTRecorrido()
+
+        if "Wallstreet2" in lista:
+            wallStreet2(img)
+            dist = dist + Wallstreet2.getDistancia()
+            tiempo = tiempo + Wallstreet2.getTRecorrido()
+        
+        if "Wallstreet3" in lista:
+            wallStreet3(img)
+            dist = dist + Wallstreet3.getDistancia()
+            tiempo = tiempo + Wallstreet3.getTRecorrido()
+
+        if "Wallstreet4" in lista:
+            wallStreet4(img)
+            dist = dist + Wallstreet4.getDistancia()
+            tiempo = tiempo + Wallstreet4.getTRecorrido()
+            
+        if "Wallstreet5" in lista:
+            wallStreet5(img)
+            dist = dist + Wallstreet5.getDistancia()
+            tiempo = tiempo + Wallstreet5.getTRecorrido()
+
+        if "A11" in lista:
+            a11(img)
+            dist = dist + A11.getDistancia()
+            tiempo = tiempo + A11.getTRecorrido()
+
+        if "A21" in lista:
+            a21(img)
+            dist = dist + A21.getDistancia()
+            tiempo = tiempo + A21.getTRecorrido()
+
+        if "Arkham1" in lista:
+            arkham1(img)
+            dist = dist + Arkham1.getDistancia()
+            tiempo = tiempo + Arkham1.getTRecorrido()
+
+        if "Arkham2" in lista:
+            arkham2(img)
+            dist = dist + Arkham2.getDistancia()
+            tiempo = tiempo + Arkham2.getTRecorrido()
+
+        if "Arkham3" in lista:
+            arkham3(img)
+            dist = dist + Arkham3.getDistancia()
+            tiempo = tiempo + Arkham3.getTRecorrido()
+
+        if "Foster1" in lista:
+            foster1(img)
+            dist = dist + Foster1.getDistancia()
+            tiempo = tiempo + Foster1.getTRecorrido()
+
+        if "Foster2" in lista:
+            foster2(img)
+            dist = dist + Foster2.getDistancia()
+            tiempo = tiempo + Foster2.getTRecorrido()
+        
+        if "Piedradura1" in lista:
+            piedradura1(img)
+            dist = dist + Piedradura1.getDistancia()
+            tiempo = tiempo + Piedradura1.getTRecorrido()
+
+        if "Piedradura2" in lista:
+            piedradura2(img)
+            dist = dist + Piedradura2.getDistancia()
+            tiempo = tiempo + Piedradura2.getTRecorrido()
+
+        if "Piedradura3" in lista:
+            piedradura3(img)
+            dist = dist + Piedradura3.getDistancia()
+            tiempo = tiempo + Piedradura3.getTRecorrido()
+
+        if "Nogal1" in lista:
+            nogal1(img)
+            dist = dist + Nogal1.getDistancia()
+            tiempo = tiempo + Nogal1.getTRecorrido()
+
+        if "Nogal2" in lista:
+            nogal2(img)
+            dist = dist + Nogal2.getDistancia()
+            tiempo = tiempo + Nogal2.getTRecorrido()
+
+        if "Nogal3" in lista:
+            nogal3(img)
+            dist = dist + Nogal3.getDistancia()
+            tiempo = tiempo + Nogal3.getTRecorrido()
+
+        if "Nogal4" in lista:
+            nogal4(img)
+            dist = dist + Nogal4.getDistancia()
+            tiempo = tiempo + Nogal4.getTRecorrido()
+
+        if "C1" in lista:
+            c1(img)
+            dist = dist + C1.getDistancia()
+            tiempo = tiempo + C1.getTRecorrido()
+
+        if "C2" in lista:
+            c2(img)
+            dist = dist + C2.getDistancia()
+            tiempo = tiempo + C2.getTRecorrido()
+
+        if "C3" in lista:
+            c3(img)
+            dist = dist + C3.getDistancia()
+            tiempo = tiempo + C3.getTRecorrido()
+            
+        if "Mar1" in lista:
+            mar1(img)
+            dist = dist + Mar1.getDistancia()
+            tiempo = tiempo + Mar1.getTRecorrido()
+
+        if "Mar2" in lista:
+            mar2(img)
+            dist = dist + Mar2.getDistancia()
+            tiempo = tiempo + Mar2.getTRecorrido()
+        
+        if "Mar3" in lista:
+            mar3(img)
+            dist = dist + Mar3.getDistancia()
+            tiempo = tiempo + Mar3.getTRecorrido()
+
+        if "Olmos1" in lista:
+            olmos1(img)
+            dist = dist + Olmos1.getDistancia()
+            tiempo = tiempo + Olmos1.getTRecorrido()
+
+        if "Olmos2" in lista:
+            olmos2(img)
+            dist = dist + Olmos2.getDistancia()
+            tiempo = tiempo + Olmos2.getTRecorrido()
+
+        if "Olmos3" in lista:
+            olmos3(img)
+            dist = dist + Olmos3.getDistancia()
+            tiempo = tiempo + Olmos3.getTRecorrido()
+
+        if "Olmos4" in lista:
+            olmos4(img)
+            dist = dist + Olmos4.getDistancia()
+            tiempo = tiempo + Olmos4.getTRecorrido()
+
+        if "Olmos5" in lista:
+            olmos5(img)
+            dist = dist + Olmos5.getDistancia()
+            tiempo = tiempo + Olmos5.getTRecorrido()
+
+        if "Siempreviva1" in lista:
+            siempreviva1(img)
+            dist = dist + Siempreviva1.getDistancia()
+            tiempo = tiempo + Siempreviva1.getTRecorrido()
+
+        if "Siempreviva2" in lista:
+            siempreviva2(img)
+            dist = dist + Siempreviva2.getDistancia()
+            tiempo = tiempo + Siempreviva2.getTRecorrido()
+
+        if "Siempreviva3" in lista:
+            siempreviva3(img)
+            dist = dist + Siempreviva3.getDistancia()
+            tiempo = tiempo + Siempreviva3.getTRecorrido()
+
+        if "Siempreviva4" in lista:
+            siempreviva4(img)
+            dist = dist + Siempreviva4.getDistancia()
+            tiempo = tiempo + Siempreviva4.getTRecorrido()
+
+        if "Metroville1" in lista:
+            metroville1(img)
+            dist = dist + Metroville1.getDistancia()
+            tiempo = tiempo + Metroville1.getTRecorrido()
+
+        if "Metroville2" in lista:
+            metroville2(img)
+            dist = dist + Metroville2.getDistancia()
+            tiempo = tiempo + Metroville2.getTRecorrido()
+
+        if "Coronado1" in lista:
+            coronado1(img)
+            dist = dist + Coronado1.getDistancia()
+            tiempo = tiempo + Coronado1.getTRecorrido()
+
+        if "Coronado2" in lista:
+            coronado2(img)
+            dist = dist + Coronado2.getDistancia()
+            tiempo = tiempo + Coronado2.getTRecorrido()
+
+        if "Coronado3" in lista:
+            coronado3(img)
+            dist = dist + Coronado3.getDistancia()
+            tiempo = tiempo + Coronado3.getTRecorrido()
+
+        if "Coronado4" in lista:
+            coronado4(img)
+            dist = dist + Coronado4.getDistancia()
+            tiempo = tiempo + Coronado4.getTRecorrido()
+
+        if "Coronado5" in lista:
+            coronado5(img)
+            dist = dist + Coronado5.getDistancia()
+            tiempo = tiempo + Coronado5.getTRecorrido()
+
+        if "Salero1" in lista:
+            salero1(img)
+            dist = dist + Salero1.getDistancia()
+            tiempo = tiempo + Salero1.getTRecorrido()
+        if "Salero2" in lista:
+            salero2(img)
+            dist = dist + Salero2.getDistancia()
+            tiempo = tiempo + Salero2.getTRecorrido()
+        if "Salero3" in lista:
+            salero3(img)
+            dist = dist + Salero3.getDistancia()
+            tiempo = tiempo + Salero3.getTRecorrido()
+
+        if "Nintendo1" in lista:
+            nintendo1(img)
+            dist = dist + Nintendo1.getDistancia()
+            tiempo = tiempo + Nintendo1.getTRecorrido()
+
+        if "Nintendo2" in lista:
+            nintendo2(img)
+            dist = dist + Nintendo2.getDistancia()
+            tiempo = tiempo + Nintendo2.getTRecorrido()
+
+        if "Nintendo3" in lista:
+            nintendo3(img)
+            dist = dist + Nintendo3.getDistancia()
+            tiempo = tiempo + Nintendo3.getTRecorrido()
+
+        if "AbbeyRoad1" in lista:
+            abbeyroad1(img)
+            dist = dist + AbbeyRoad1.getDistancia()
+            tiempo = tiempo + AbbeyRoad1.getTRecorrido()
+
+        if "AbbeyRoad2" in lista:
+            abbeyroad2(img)
+            dist = dist + AbbeyRoad2.getDistancia()
+            tiempo = tiempo + AbbeyRoad2.getTRecorrido()
+
+        if "AbbeyRoad3" in lista:
+            abbeyroad3(img)
+            dist = dist + AbbeyRoad3.getDistancia()
+            tiempo = tiempo + AbbeyRoad3.getTRecorrido()
+
+        if "AbbeyRoad4" in lista:
+            abbeyroad4(img)
+            dist = dist + AbbeyRoad4.getDistancia()
+            tiempo = tiempo + AbbeyRoad4.getTRecorrido()
+
+        if "AbbeyRoad5" in lista:
+            abbeyroad5(img)
+            dist = dist + AbbeyRoad5.getDistancia()
+            tiempo = tiempo + AbbeyRoad5.getTRecorrido()
+            
+        if "AbbeyRoad6" in lista:
+            abbeyroad6(img)
+            dist = dist + AbbeyRoad6.getDistancia()
+            tiempo = tiempo + AbbeyRoad6.getTRecorrido()
+
+        if "AbbeyRoad7" in lista:
+            abbeyroad7(img)
+            dist = dist + AbbeyRoad7.getDistancia()
+            tiempo = tiempo + AbbeyRoad7.getTRecorrido()
+
+        if "Elmwood21" in lista:
+            elmwood21(img)
+            dist = dist + Elmwood21.getDistancia()
+            tiempo = tiempo + Elmwood21.getTRecorrido()
+
+        if "Elmwood22" in lista:
+            elmwood22(img)
+            dist = dist + Elmwood22.getDistancia()
+            tiempo = tiempo + Elmwood22.getTRecorrido()
+
+        if "Elmwood23" in lista:
+            elmwood23(img)
+            dist = dist + Elmwood23.getDistancia()
+            tiempo = tiempo + Elmwood23.getTRecorrido()
+
+        if "Elmwood24" in lista:
+            elmwood24(img)
+            dist = dist + Elmwood24.getDistancia()
+            tiempo = tiempo + Elmwood24.getTRecorrido()
+
+        if "Peachtree1" in lista:
+            peachtree1(img)
+            dist = dist + Peachtree1.getDistancia()
+            tiempo = tiempo + Peachtree1.getTRecorrido()
+
+        if "Peachtree2" in lista:
+            peachtree2(img)
+            dist = dist + Peachtree2.getDistancia()
+            tiempo = tiempo + Peachtree2.getTRecorrido()
+
+        if "Peachtree3" in lista:
+            peachtree3(img)
+            dist = dist + Peachtree3.getDistancia()
+            tiempo = tiempo + Peachtree3.getTRecorrido()
+
+        if "Peachtree4" in lista:
+            peachtree4(img)
+            dist = dist + Peachtree4.getDistancia()
+            tiempo = tiempo + Peachtree4.getTRecorrido()
+
+        if "Peachtree5" in lista:
+            peachtree5(img)
+            dist = dist + Peachtree5.getDistancia()
+            tiempo = tiempo + Peachtree5.getTRecorrido()
+
+        if "Peachtree6" in lista:
+            peachtree6(img)
+            dist = dist + Peachtree6.getDistancia()
+            tiempo = tiempo + Peachtree6.getTRecorrido()
+
+        if "Peachtree7" in lista:
+            peachtree7(img)
+            dist = dist + Peachtree7.getDistancia()
+            tiempo = tiempo + Peachtree7.getTRecorrido()
+
+        if "Luna" in lista:
+            luna(img)
+            dist = dist + Luna.getDistancia()
+            tiempo = tiempo + Luna.getTRecorrido()
+
+        if "Luz" in lista:
+            luz(img)
+            dist = dist + Luz.getDistancia()
+            tiempo = tiempo + Luz.getTRecorrido()
+
+        if "D1" in lista:
+            d1(img)
+            dist = dist + D1.getDistancia()
+            tiempo = tiempo + D1.getTRecorrido()
+
+        if "Vida" in lista:
+            vida(img)
+            dist = dist + Vida.getDistancia()
+            tiempo = tiempo + Vida.getTRecorrido()
+
+        if "Nube1" in lista:
+            nube1(img)
+            dist = dist + Nube1.getDistancia()
+            tiempo = tiempo + Nube1.getTRecorrido()
+
+        if "Nube2" in lista:
+            nube2(img)
+            dist = dist + Nube2.getDistancia()
+            tiempo = tiempo + Nube2.getTRecorrido()
+
+        if "Alba" in lista:
+            alba(img)
+            dist = dist + Alba.getDistancia()
+            tiempo = tiempo + Alba.getTRecorrido()
+
+        if "Brisa1" in lista:
+            brisa1(img)
+            dist = dist + Brisa1.getDistancia()
+            tiempo = tiempo + Brisa1.getTRecorrido()
+            
+        if "Brisa2" in lista:
+            brisa2(img)
+            dist = dist + Brisa2.getDistancia()
+            tiempo = tiempo + Brisa2.getTRecorrido()
+
+        if "Aroma1" in lista:
+            aroma1(img)
+            dist = dist + Aroma1.getDistancia()
+            tiempo = tiempo + Aroma1.getTRecorrido()
+
+        if "Aroma2" in lista:
+            aroma2(img)
+            dist = dist + Aroma2.getDistancia()
+            tiempo = tiempo + Aroma2.getTRecorrido()
+
+        if "Aroma3" in lista:
+            aroma3(img)
+            dist = dist + Aroma3.getDistancia()
+            tiempo = tiempo + Aroma3.getTRecorrido()
+
+        if "Aroma4" in lista:
+            aroma4(img)
+            dist = dist + Aroma4.getDistancia()
+            tiempo = tiempo + Aroma4.getTRecorrido()
+
+        if "Aroma5" in lista:
+            aroma5(img)
+            dist = dist + Aroma5.getDistancia()
+            tiempo = tiempo + Aroma5.getTRecorrido()
+
+        if "Aroma6" in lista:
+            aroma6(img)
+            dist = dist + Aroma6.getDistancia()
+            tiempo = tiempo + Aroma6.getTRecorrido()
+
+        if "Aroma7" in lista:
+            aroma7(img)
+            dist = dist + Aroma7.getDistancia()
+            tiempo = tiempo + Aroma7.getTRecorrido()
+
+        if "Aroma8" in lista:
+            aroma8(img)
+            dist = dist + Aroma8.getDistancia()
+            tiempo = tiempo + Aroma8.getTRecorrido()
+
+        if "Elmore1" in lista:
+            elmore1(img)
+            dist = dist + Elmore1.getDistancia()
+            tiempo = tiempo + Elmore1.getTRecorrido()
+
+        if "Elmore2" in lista:
+            elmore2(img)
+            dist = dist + Elmore2.getDistancia()
+            tiempo = tiempo + Elmore2.getTRecorrido()
+
+        if "Elmore3" in lista:
+            elmore3(img)
+            dist = dist + Elmore3.getDistancia()
+            tiempo = tiempo + Elmore3.getTRecorrido()
+
+        if "Elmore4" in lista:
+            elmore4(img)
+            dist = dist + Elmore4.getDistancia()
+            tiempo = tiempo + Elmore4.getTRecorrido()
+
+        if "Elmore5" in lista:
+            elmore5(img)
+            dist = dist + Elmore5.getDistancia()
+            tiempo = tiempo + Elmore5.getTRecorrido()
+
+        if "Elmore6" in lista:
+            elmore6(img)
+            dist = dist + Elmore6.getDistancia()
+            tiempo = tiempo + Elmore6.getTRecorrido()
+
+        if "Elmore7" in lista:
+            elmore7(img)
+            dist = dist + Elmore7.getDistancia()
+            tiempo = tiempo + Elmore7.getTRecorrido()
+
+        if "Elmore8" in lista:
+            elmore8(img)
+            dist = dist + Elmore8.getDistancia()
+            tiempo = tiempo + Elmore8.getTRecorrido()
+
+        if "Elmore9" in lista:
+            elmore9(img)
+            dist = dist + Elmore9.getDistancia()
+            tiempo = tiempo + Elmore9.getTRecorrido()
+
+        if "Elmore10" in lista:
+            elmore10(img)
+            dist = dist + Elmore10.getDistancia()
+            tiempo = tiempo + Elmore10.getTRecorrido()
+
+        if "Elmore11" in lista:
+            elmore11(img)
+            dist = dist + Elmore11.getDistancia()
+            tiempo = tiempo + Elmore11.getTRecorrido()
+        
+        if "Elmore12" in lista:
+            elmore12(img)
+            dist = dist + Elmore12.getDistancia()
+            tiempo = tiempo + Elmore12.getTRecorrido()
+            
+        if "Springfield1" in lista:
+            springfield1(img)
+            dist = dist + Springfield1.getDistancia()
+            tiempo = tiempo + Springfield1.getTRecorrido()
+
+        if "Springfield2" in lista:
+            springfield2(img)
+            dist = dist + Springfield2.getDistancia()
+            tiempo = tiempo + Springfield2.getTRecorrido()
+
+        if "Springfield3" in lista:
+            springfield3(img)
+            dist = dist + Springfield3.getDistancia()
+            tiempo = tiempo + Springfield3.getTRecorrido()
+
+        if "Springfield4" in lista:
+            springfield4(img)
+            dist = dist + Springfield4.getDistancia()
+            tiempo = tiempo + Springfield4.getTRecorrido()
+
+        if "Springfield5" in lista:
+            springfield5(img)
+            dist = dist + Springfield5.getDistancia()
+            tiempo = tiempo + Springfield5.getTRecorrido()
+
+        if "Springfield6" in lista:
+            springfield6(img)
+            dist = dist + Springfield6.getDistancia()
+            tiempo = tiempo + Springfield6.getTRecorrido()
+
+        if "Springfield7" in lista:
+            springfield7(img)
+            dist = dist + Springfield7.getDistancia()
+            tiempo = tiempo + Springfield7.getTRecorrido()
+
+        if "Springfield8" in lista:
+            springfield8(img)
+            dist = dist + Springfield8.getDistancia()
+            tiempo = tiempo + Springfield8.getTRecorrido()
+
+        if "Springfield9" in lista:
+            springfield9(img)
+            dist = dist + Springfield9.getDistancia()
+            tiempo = tiempo + Springfield9.getTRecorrido()
+
+        if "Springfield10" in lista:
+            springfield10(img)
+            dist = dist + Springfield10.getDistancia()
+            tiempo = tiempo + Springfield10.getTRecorrido()
+
+        if "Springfield11" in lista:
+            springfield11(img)
+            dist = dist + Springfield11.getDistancia()
+            tiempo = tiempo + Springfield11.getTRecorrido()
+
+        if "Springfield12" in lista:
+            springfield12(img)
+            dist = dist + Springfield12.getDistancia()
+            tiempo = tiempo + Springfield12.getTRecorrido()
+
+        if "Springfield13" in lista:
+            springfield13(img)
+            dist = dist + Springfield13.getDistancia()
+            tiempo = tiempo + Springfield13.getTRecorrido()
+
+        if "Springfield14" in lista:
+            springfield14(img)
+            dist = dist + Springfield14.getDistancia()
+            tiempo = tiempo + Springfield14.getTRecorrido()
+
+        if "Springfield15" in lista:
+            springfield15(img)
+            dist = dist + Springfield15.getDistancia()
+            tiempo = tiempo + Springfield15.getTRecorrido()
+
+        if "Springfield16" in lista:
+            springfield16(img)
+            dist = dist + Springfield16.getDistancia()
+            tiempo = tiempo + Springfield16.getTRecorrido()
+
+        if "Millaverde1" in lista:
+            millaverde1(img)
+            dist = dist + Millaverde1.getDistancia()
+            tiempo = tiempo + Millaverde1.getTRecorrido()
+
+        if "Millaverde2" in lista:
+            millaverde2(img)
+            dist = dist + Millaverde2.getDistancia()
+            tiempo = tiempo + Millaverde2.getTRecorrido()
+
+        if "Millaverde3" in lista:
+            millaverde3(img)
+            dist = dist + Millaverde3.getDistancia()
+            tiempo = tiempo + Millaverde3.getTRecorrido()
+
+        if "Millaverde4" in lista:
+            millaverde4(img)
+            dist = dist + Millaverde4.getDistancia()
+            tiempo = tiempo + Millaverde4.getTRecorrido()
+
+        if "Millaverde5" in lista:
+            millaverde5(img)
+            dist = dist + Millaverde5.getDistancia()
+            tiempo = tiempo + Millaverde5.getTRecorrido()
+
+        if "Millaverde6" in lista:
+            millaverde6(img)
+            dist = dist + Millaverde6.getDistancia()
+            tiempo = tiempo + Millaverde6.getTRecorrido()
+
+        if "Millaverde7" in lista:
+            millaverde7(img)
+            dist = dist + Millaverde7.getDistancia()
+            tiempo = tiempo + Millaverde7.getTRecorrido()
+
+        if "Millaverde8" in lista:
+            millaverde8(img)
+            dist = dist + Millaverde8.getDistancia()
+            tiempo = tiempo + Millaverde8.getTRecorrido()
+        
+        if "CSol" in lista:
+            sol(img)
+            dist = dist + CSol.getDistancia()
+            tiempo = tiempo + CSol.getTRecorrido()
+
+        
     except Exception:
-         print("problemassssssssssss")
-
+        print("problemassssssssssss")
+        
     print(dist)
     print(tiempo)
-        
-    """
-   
-    lopez1(img)
-    lopez2(img)
-    lopez3(img)
-    
-
-    bravo1(img)
-    bravo2(img)
-    bravo3(img)
-    frias(img)
-    torrez1(img)
-    torrez2(img)
-    juan2(img)
-    juan1(img)
-    pasteur1(img)
-    pasteur2(img)
-    pasteur3(img)
-    pasteur4(img)
-    beni(img)
-    colombia1(img)
-    colombia2(img)
-    colombia3(img)
-    colombia4(img)
-    jordan1(img)
-    jordan2(img)
-    jordan3(img)
-    jordan4(img)
-    españa1(img)
-    españa2(img)
-    españa3(img)
-    españa4(img)
-    españa5(img)
-    españa6(img)
-    francia1(img)
-    francia2(img)
-    francia3(img)
-    peru1(img)
-    peru2(img)
-    melgarejo1(img)
-    melgarejo2(img)
-    melgarejo3(img)
-    portugal2(img)
-    portugal1(img)
-    brasil1(img)
-    brasil2(img)
-    jose1(img)
-    jose2(img)
-    jose3(img)
-    jose4(img)
-    italia1(img)
-    italia2(img)
-
-
-    santa(img)
-
-    BGalindo1(img)
-    BGalindo2(img)
-    BGalindo3(img)
-    BGalindo4(img)
-    Suarez1(img)
-    Suarez2(img)
-    Suarez3(img)
-    Suarez4(img)
-    Bolivar1(img)
-    Bolivar2(img)
-    Bolivar3(img)
-    Bolivar4(img)
-    Polonia1(img)
-    Polonia2(img)
-    Polonia3(img)
-    Polonia4(img)
-    pinos1(img)
-    pinos2(img)
-    pinos3(img)
-    nataniel1(img)
-    nataniel2(img)
-    nataniel3(img)
-    aroma1(img)
-    aroma2(img)
-    aroma3(img)
-    ayacucho1(img)
-    ayacucho2(img)
-    ayacucho3(img)
-    #empieza victor
-   
-    Gotham1(img)
-    Gotham2(img)
-    Gotham3(img)
-    Gotham4(img)
-    Gotham5(img)
-    Gotham6(img)
-    
-    Acacia1(img)
-    Acacia2(img)
-    Acacia3(img)
-    Acacia4(img)
-    Acacia5(img)
-    
-    esquina1(img)
-    esquina2(img)
-    carnaby1(img)
-    carnaby2(img)
-    carnaby3(img)
-    carnaby4(img)
-    
-    acme1(img)
-    acme2(img)
-    acme3(img)
-    
-    B11(img)
-    B12(img)
-    B13(img)
-    
-    elm(img)
-    
-    elmwood1(img)
-    elmwood2(img)
-    elmwood3(img)
-    elmwood4(img)
-    
-    bourbon1(img)
-    bourbon2(img)
-    bourbon3(img)
-    bourbon4(img)
-    bourbon5(img)
-    
-    baker1(img)
-    baker2(img)
-    baker3(img)
-    baker4(img)
-    melrose1(img)
-    melrose2(img)
-    melrose3(img)
-    melrose4(img)
-    SouthPark1(img)
-    SouthPark2(img)
-    SouthPark3(img)
-    SouthPark4(img)
-    SouthPark5(img)
-    SouthPark6(img)
-    SouthPark7(img)
-    SouthPark8(img)
-    b21(img)
-    b22(img)
-    b23(img)
-    WallStreet1(img)
-    WallStreet2(img)
-    WallStreet3(img)
-    WallStreet4(img)
-    WallStreet5(img)
-    a11(img)
-    a21(img)
-    arkham1(img)
-    arkham2(img)
-    arkham3(img)
-    foster1(img)
-    foster2(img)
-    piedradura1(img)
-    piedradura2(img)
-    piedradura3(img)
-    Nogal1(img)
-    Nogal2(img)
-    Nogal3(img)
-    Nogal4(img)
-    C1(img)
-    C2(img)
-    C3(img)
-    mar1(img)
-    mar2(img)
-    olmos1(img)
-    olmos2(img)
-    olmos3(img)
-    olmos4(img)
-    olmos5(img)
-    siempreviva1(img)
-    siempreviva2(img)
-    siempreviva3(img)
-    siempreviva4(img)
-    metroville1(img)
-    metroville2(img)
-    coronado1(img)
-    coronado2(img)
-    coronado3(img)
-    coronado4(img)
-    coronado5(img)
-    sol(img)
-    salero1(img)
-    salero2(img)
-    salero3(img)
-    nintendo1(img)
-    nintendo2(img)
-    nintendo3(img)
-    abbeyroad1(img)
-    abbeyroad2(img)
-    abbeyroad3(img)
-    abbeyroad4(img)
-    abbeyroad5(img)
-    abbeyroad6(img)
-    abbeyroad7(img)
-    elmwood21(img)
-    elmwood22(img)
-    elmwood23(img)
-    elmwood24(img)
-    peachtree1(img)
-    peachtree2(img)
-    peachtree3(img)
-    peachtree4(img)
-    peachtree5(img)
-    peachtree6(img)
-    peachtree7(img)
-    luna(img)
-    luz(img)
-    d1(img)
-    vida(img)
-    nube1(img)
-    nube2(img)
-    alba(img)
-    brisa1(img)
-    brisa2(img)
-    aroma1(img)
-    aroma2(img)
-    aroma3(img)
-    aroma4(img)
-    aroma5(img)
-    aroma6(img)
-    aroma7(img)
-    aroma8(img)
-    elmore1(img)
-    elmore2(img)
-    elmore3(img)
-    elmore4(img)
-    elmore5(img)
-    elmore6(img)
-    elmore7(img)
-    elmore8(img)
-    elmore9(img)
-    elmore10(img)
-    elmore11(img)
-    springfield1(img)
-    springfield2(img)
-    springfield3(img)
-    springfield4(img)
-    springfield5(img)
-    springfield6(img)
-    springfield7(img)
-    springfield8(img)
-    springfield9(img)
-    springfield10(img)
-    springfield11(img)
-    springfield12(img)
-    springfield13(img)
-    springfield14(img)
-    springfield15(img)
-    springfield16(img)
-    millaverde1(img)
-    millaverde2(img)
-    millaverde3(img)
-    millaverde4(img)
-    millaverde5(img)
-    millaverde6(img)
-    millaverde7(img)
-    millaverde8(img)
-
-    ciruelos(img)
-    santiago1(img)
-    santiago2(img)
-    santiago3(img)
-    santiago4(img)
-    santiago5(img)
-    paris1(img)
-    paris2(img)
-    paris3(img)
-
-    calera1(img)
-    calera2(img)
-    calera3(img)
-    calera4(img)
-
-    pisiga1(img)
-    pisiga2(img)
-    pisiga3(img)
-    pisiga4(img)
-    pisiga5(img)
-
-    santaRosa1(img)
-    santaRosa2(img)
-    santaRosa3(img)
-
-    yumucu1(img)
-    yumucu2(img)
-    yumucu3(img)
-    yumucu4(img)
-    yumucu5(img)
-
-    joya1(img)
-    joya2(img)
-    joya3(img)
-    joya4(img)
-    joya5(img)
-
-    ballon1(img)
-    ballon2(img)
-    ballon3(img)
-    ballon4(img)
-
-    sanLuis1(img)
-    sanLuis2(img)
-    sanLuis3(img)
-
-    lopez1(img)
-    lopez2(img)
-    lopez3(img)
-    
-    bruselas1(img)
-    bruselas2(img)
-    bruselas3(img)
-    bruselas4(img)
-
-    japon1(img)
-    japon2(img)
-
-    lima(img)
-
-    paria1(img)
-    paria2(img)
-    paria3(img)
-    paria4(img)
-    paria5(img)
-
-    guzman(img)
-
-    pando1(img)
-    pando2(img)
-    pando3(img)
-    pando4(img)
-
-    inter1(img)
-    inter2(img)
-    inter3(img)
-    inter4(img)
-    inter5(img)
-
-    vandiola1(img)
-    vandiola2(img)
-    vandiola3(img)
-    vandiola4(img)
-    vandiola5(img)
-
-    lanza1(img)
-    lanza2(img)
-
-    torres(img)
-    daza1(img)
-    daza2(img)
-    daza3(img)
-    daza4(img)
-    daza5(img)
-    daza6(img)
-    zaruma1(img)
-    zaruma2(img)
-    zaruma3(img)
-    zaruma4(img)
-    zaruma5(img)
-    zaruma6(img)
-
-    peñas1(img)
-    peñas2(img)
-    peñas3(img)
-    peñas4(img)
-    peñas5(img)
-    peñas6(img)
-
-    castrilla1(img)
-    castrilla2(img)
-    castrilla3(img)
-
-    dulon1(img)
-    dulon2(img)
-    dulon3(img)
-    dulon4(img)
-
-    habana1(img)
-    habana2(img)
-
-    toledo1(img)
-    toledo2(img)
-    toledo3(img)
-    toledo4(img)
-    toledo5(img)
-    toledo6(img)
-    toledo7(img)
-
-    hungria1(img)
-    hungria2(img)
-    hungria3(img)
-
-    quito1(img)
-    quito2(img)
-    quito3(img)
-
-    bayern1(img)
-    bayern2(img)
-    bayern3(img)
-    bayern4(img)
-    bayern5(img)
-    bayern6(img)
-    bayern7(img)
-    bayern8(img)
-
-    pocoata1(img)
-    pocoata2(img)
-    pocoata3(img)
-    pocoata4(img)
-    pocoata5(img)
-    pocoata6(img)
-    pocoata7(img)
-    pocoata8(img)
-    pocoata9(img)
-    pocoata10(img)
-
-    sanJuan1(img)
-    sanJuan2(img)
-    sanJuan3(img)
-    sanJuan4(img)
-    sanJuan5(img)
-    sanJuan6(img)
-    sanJuan7(img)
-    sanJuan8(img)
-    sanJuan9(img)
-    sanJuan10(img)
-    sanJuan11(img)
-    sanJuan12(img)
-    sanJuan13(img)
-
-    alcala1(img)
-    alcala2(img)
-    alcala3(img)
-    alcala4(img)
-    alcala5(img)
-    alcala6(img)
-    alcala7(img)
-    alcala8(img)
-    alcala9(img)
-    alcala10(img)
-    alcala11(img)
-    alcala12(img)
-
-    guayacan1(img)
-    guayacan2(img)
-    guayacan3(img)
-    guayacan4(img)
-    guayacan5(img)
-    guayacan6(img)
-    guayacan7(img)
-    guayacan8(img)
-    guayacan9(img)
-
-    tunari1(img)
-    tunari2(img)
-    tunari3(img)
-
-    pool(img)
-    AB23(img)
-    C13(img)
-    C14(img)
-    C15(img)
-    C16(img)
-    C17(img)
-    C18(img)
-    RRivero1(img)
-    RRivero2(img)
-    RRivero3(img)
-    RRivero4(img)
-    RRivero5(img)
-    RRivero6(img)
-    RRivero7(img)
-    RRivero8(img)
-    springfield17(img)
-    springfield18(img)
-    springfield19(img)
-    springfield20(img)
-    springfield21(img)
-    springfield22(img)
-    springfield23(img)
-    springfield24(img)
-    springfield25(img)
-    springfield26(img)
-    springfield27(img)
-    springfield28(img)
-    springfield29(img)
-    springfield30(img)
-    springfield31(img)
-    springfield32(img)
-    springfield33(img)
-    springfield34(img)
-
-    america1(img)
-    america2(img)
-    america3(img)
-    america4(img)
-    america5(img)
-    america6(img)
-
-    C4(img)
-    C5(img)
-    C6(img)
-    C7(img)
-
-    heroinas1(img)
-    heroinas2(img)
-    heroinas3(img)
-    heroinas4(img)
-    heroinas5(img)
-    heroinas6(img)
-    heroinas7(img)
-    heroinas8(img)
-    heroinas9(img)
-    heroinas10(img)
-    heroinas11(img)
-
-    lizarraga1(img)
-    lizarraga2(img)
-    lizarraga3(img)
-
-    blink1(img)
-    blink2(img)
-
-    rasmus1(img)
-    rasmus2(img)
-    rasmus3(img)
-    """
     cv2.imshow('img',img)
     cv2.waitKey(0)
     cv2.destroyAllWindows()
-    
+          
     
 def Sucre(img):
     for i in range(11,23):
@@ -1249,28 +1740,28 @@ def pintardiagonalDerIzq(img,iniX,largo,iniY,ancho):
     except Exception:
         print("error")         
 
-def Gotham1(img):
+def gotham1(img):
     pintardiagonalIzqDer(img,655,10,90,4)
-def Gotham2(img):
+def gotham2(img):
     pintardiagonalIzqDer(img,675,12,110,4)
-def Gotham3(img):
+def gotham3(img):
     pintardiagonalIzqDer(img,702,10,137,4)
-def Gotham4(img):
+def gotham4(img):
     pintardiagonalIzqDer(img,725,15,157,4)  
-def Gotham5(img):
+def gotham5(img):
     pintardiagonalIzqDer(img,752,10,182,4) 
-def Gotham6(img):
+def gotham6(img):
     pintardiagonalIzqDer(img,773,20,203,4)
     
-def Acacia1(img):
+def acacia1(img):
     pintardiagonalIzqDer(img,688,15,60,4)
-def Acacia2(img):
+def acacia2(img):
     pintardiagonalIzqDer(img,713,10,83,4)
-def Acacia3(img):
+def acacia3(img):
     pintardiagonalIzqDer(img,735,10,105,4)
-def Acacia4(img):
+def acacia4(img):
     pintardiagonalIzqDer(img,755,20,122,4)
-def Acacia5(img):
+def acacia5(img):
     pintardiagonalIzqDer(img,785,10,152,4)
 
 def esquina1(img):
@@ -1294,11 +1785,11 @@ def acme2(img):
 def acme3(img):
     pintardiagonalDerIzq(img,722,10,62,4)
 
-def B11(img):
+def b11(img):
     pintardiagonalIzqDer(img,620,10,124,4) 
-def B12(img):
+def b12(img):
     pintardiagonalIzqDer(img,651,10,134,4) 
-def B13(img):
+def b13(img):
     pintardiagonalIzqDer(img,681,10,164,4) 
     
 def elm(img):
@@ -1342,21 +1833,21 @@ def melrose3(img):
 def melrose4(img):
     pintardiagonalDerIzq(img,665,15,110,4)
     
-def SouthPark1(img):
+def southPark1(img):
     pintardiagonalDerIzq(img,635,10,185,6)
-def SouthPark2(img):
+def southPark2(img):
     pintardiagonalDerIzq(img,663,15,158,6)
-def SouthPark3(img):
+def southPark3(img):
     pintardiagonalDerIzq(img,690,15,133,6)
-def SouthPark4(img):
+def southPark4(img):
     pintardiagonalDerIzq(img,720,20,103,6)  
-def SouthPark5(img):
+def southPark5(img):
     pintardiagonalDerIzq(img,740,10,83,6)
-def SouthPark6(img):
+def southPark6(img):
     pintardiagonalDerIzq(img,766,15,58,6)
-def SouthPark7(img):
+def southPark7(img):
     pintardiagonalDerIzq(img,786,10,38,6)
-def SouthPark8(img):
+def southPark8(img):
     pintarvertical(img,792,20,8,4)
     
 def b21(img):
@@ -1365,15 +1856,15 @@ def b22(img):
     pintardiagonalDerIzq(img,660,10,210,4)
 def b23(img):
     pintardiagonalDerIzq(img,690,13,180,4)
-def WallStreet1(img):
+def wallStreet1(img):
     pintarHorizontal(img,637,20,262,4)
-def WallStreet2(img):
+def wallStreet2(img):
     pintarHorizontal(img,675,15,262,4)
-def WallStreet3(img):
+def wallStreet3(img):
     pintarHorizontal(img,718,20,262,4)
-def WallStreet4(img):
+def wallStreet4(img):
     pintarHorizontal(img,760,15,262,4)
-def WallStreet5(img):
+def wallStreet5(img):
     pintarHorizontal(img,785,10,262,4)
     
 def a11(img):
@@ -1399,25 +1890,27 @@ def piedradura2(img):
 def piedradura3(img):
     pintardiagonalIzqDer(img,565,10,60,4)
     
-def Nogal1(img):
+def nogal1(img):
     pintardiagonalIzqDer(img,577,12,162,4)
-def Nogal2(img):
+def nogal2(img):
     pintardiagonalIzqDer(img,600,15,185,4)
-def Nogal3(img):
+def nogal3(img):
     pintardiagonalIzqDer(img,627,12,210,4)
-def Nogal4(img):
+def nogal4(img):
     pintardiagonalIzqDer(img,650,15,240,4)
 
-def C1(img):
+def c1(img):
     pintardiagonalDerIzq(img,502,10,8,4)
-def C2(img):
+def c2(img):
     pintardiagonalDerIzq(img,520,10,32,4)
-def C3(img):
+def c3(img):
     pintardiagonalIzqDer(img,625,15,5,4)
 def mar1(img):
     pintardiagonalIzqDer(img,433,15,106,4)
 def mar2(img):
     pintardiagonalIzqDer(img,469,8,122,4)
+def mar3(img):
+    pintardiagonalIzqDer(img,480,8,150,4)
     
 def olmos1(img):
     pintardiagonalDerIzq(img,390,8,186,4)
@@ -1566,8 +2059,10 @@ def elmore8(img):
 def elmore9(img):
     pintardiagonalIzqDer(img,648,15,185,6)
 def elmore10(img):
-    pintardiagonalIzqDer(img,672,25,207,6)
+    pintardiagonalIzqDer(img,672,15,207,6)
 def elmore11(img):
+    pintardiagonalIzqDer(img,698,15,237,6)
+def elmore12(img):
     pintarvertical(img,705,15,275,6)
 
 def springfield1(img):

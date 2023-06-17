@@ -1,0 +1,37 @@
+'Bourbon1':  ['Bourbon2','Elmore10','Elmore11','Mendoza1'],
+'Bourbon2':  ['Bourbon1','Bourbon3','Mendoza1','Gotham4','Gotham5'],
+'Wallstreet3':  ['Wallstreet2','Wallstreet4','Elmore11','Elmore12','Mendoza1','Mendoza2'],
+'Wallstreet4':  ['Wallstreet2','Wallstreet4','Mendoza1','Mendoza2','Baker1'],
+'A11':  ['A21','Mendoza2','Mendoza3'],
+
+'C1':  ['Elmore1','Elmore2','Piedradura1'],
+'C2':  ['Elmore2','Elmore3','Piedradura1','Piedradura2'],
+'Mar1':  ['Mar2','Olmos3','Olmos4'],
+
+'Olmos4':  ['Olmos3','Olmos5','Mar1','Mar2','LosLaureles3','LosLaureles4'],
+'Olmos5':  ['Olmos4','LosLaureles3','LosLaureles4','Elmore3','Elmore4'],
+'Siempreviva4':  ['Siempreviva3','Mar2','Mar3','LosLaureles4','LosLaureles5'],
+
+'Peachtree7':  ['Peachtree6','Vida','Belfort1'],
+'AbbeyRoad7':  ['AbbeyRoad6','Belfort1'],
+
+'Aroma1':  ['Aroma2'],
+'Aroma2':  ['Aroma1','Aroma3'],
+'Aroma3':  ['Aroma2','Aroma4'],
+'Aroma4':  ['Aroma3','Aroma5'],
+'Aroma5':  ['Aroma4','Aroma6','Olmos2','Olmos3'],
+'Elmore2':  ['Elmore1','Elmore3','C1','C2','Ayacucho1'],
+'Elmore3':  ['Elmore2','Elmore4','C2','Ayacucho1','Olmos5'],
+'Elmore12':  ['Elmore11','Wallstreet2','Wallstreet3','Springfield13','Springfield14'],
+
+'Springfield1':  ['Springfield2'],
+'Springfield2':  ['Springfield1','Springfield3'],
+'Springfield3':  ['Springfield2','Springfield4'],
+'Springfield8':  ['Springfield7','Springfield9','Nube1','Belfort1'],
+'Springfield9':  ['Springfield8','Springfield10','Belfort1','Nintendo3'],
+'Springfield14':  ['Springfield13','Springfield15','Elmore12','Mendoza','Mendoza'],
+'Springfield15':  ['Springfield14','Springfield16','Mendoza','Mendoza','Allende','A21'],
+'Springfield16':  ['Springfield15','Allende','A21'],
+'Millaverde7':  ['Millaverde6','Millaverde8','Metroville2','Mar3','LosLaureles'],
+'Millaverde8':  ['Millaverde7','LosLaureles','Elmore5','Elmore6'],
+

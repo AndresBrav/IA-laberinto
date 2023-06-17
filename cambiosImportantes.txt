@@ -1,0 +1,64 @@
+elmore11 LO VOLVI elmore12 Y CRE UN NUEVO elmore11
+CREE mar3
+
+def elmore11(img):
+    pintardiagonalIzqDer(img,698,15,237,6)
+def elmore12(img):
+    pintarvertical(img,705,15,275,6)
+def mar3(img):
+    pintardiagonalIzqDer(img,480,8,150,4)
+
+LOS SIGUIENTES SOLO PUSE EN MINUSCULA LA PRIMERA LETRA ANTES ERA B11 AHORA b11 ASI A TODOS LOS DE ABAJO
+
+def b11(img):
+    pintardiagonalIzqDer(img,620,10,124,4) 
+def b12(img):
+    pintardiagonalIzqDer(img,651,10,134,4) 
+def b13(img):
+    pintardiagonalIzqDer(img,681,10,164,4) 
+
+def southPark1(img):
+    pintardiagonalDerIzq(img,635,10,185,6)
+def southPark2(img):
+    pintardiagonalDerIzq(img,663,15,158,6)
+def southPark3(img):
+    pintardiagonalDerIzq(img,690,15,133,6)
+def southPark4(img):
+    pintardiagonalDerIzq(img,720,20,103,6)  
+def southPark5(img):
+    pintardiagonalDerIzq(img,740,10,83,6)
+def southPark6(img):
+    pintardiagonalDerIzq(img,766,15,58,6)
+def southPark7(img):
+    pintardiagonalDerIzq(img,786,10,38,6)
+def southPark8(img):
+    pintarvertical(img,792,20,8,4)
+
+def wallStreet1(img):
+    pintarHorizontal(img,637,20,262,4)
+def wallStreet2(img):
+    pintarHorizontal(img,675,15,262,4)
+def wallStreet3(img):
+    pintarHorizontal(img,718,20,262,4)
+def wallStreet4(img):
+    pintarHorizontal(img,760,15,262,4)
+def wallStreet5(img):
+    pintarHorizontal(img,785,10,262,4)
+
+def nogal1(img):
+    pintardiagonalIzqDer(img,577,12,162,4)
+def nogal2(img):
+    pintardiagonalIzqDer(img,600,15,185,4)
+def nogal3(img):
+    pintardiagonalIzqDer(img,627,12,210,4)
+def nogal4(img):
+    pintardiagonalIzqDer(img,650,15,240,4)
+
+def c1(img):
+    pintardiagonalDerIzq(img,502,10,8,4)
+def c2(img):
+    pintardiagonalDerIzq(img,520,10,32,4)
+def c3(img):
+    pintardiagonalIzqDer(img,625,15,5,Weeoe wn aol
+ 
+TUVE ERRORES EN SOL ASI QUE NO LO USE
