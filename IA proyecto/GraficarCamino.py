@@ -48,8 +48,8 @@ def pintardiagonal22(img,iniX,largo,iniY,ancho):
         print("error") 
 
 def cargarGrafico(listaRecorrido):
-    img=cv2.imread("IA proyecto/mapaIA5.jpg")
-    #img=cv2.imread("c:/Users/molle/Downloads/Telegram Desktop/IA laberinto/IA proyecto/mapaIA5.jpg")
+    img=cv2.imread("IA proyecto/MapaIA5.jpg")
+    #img=cv2.imread("C:\Users\molle\Downloads\Telegram Desktop\IA laberinto\mapaIA5.jpg")
     lista=listaRecorrido
     dist=0
     tiempo=0
@@ -640,6 +640,8 @@ def cargarGrafico(listaRecorrido):
     rasmus3(img)
     
 #Roberto tu kchero
+
+
     tromp1(img)
     tromp2(img)
     tromp3(img)
@@ -651,38 +653,118 @@ def cargarGrafico(listaRecorrido):
     tromp9(img)
 
     heroinas1(img)
+    heroinas2(img)
+    heroinas3(img)
+    heroinas4(img)
+    heroinas5(img)
+    heroinas6(img)
+    heroinas7(img)
+    heroinas8(img)
+    heroinas9(img)
 
-    espania(img)
+    espania1(img)
+    espania2(img)
+    espania3(img)
+    espania4(img)
+    espania5(img)
+    espania6(img)
 
-    franco(img)
+    franco1(img)
+    franco2(img)
+    franco3(img)
+    franco4(img)
 
-    chiriguano(img)
+    chiriguano1(img)
+    chiriguano2(img)
+    chiriguano3(img)
 
-    chaco(img)
+    chaco1(img)
+    chaco2(img)
+    chaco3(img)
 
-    juarez(img)
+    juarez1(img)
+    juarez2(img)
+    juarez3(img)
+    juarez4(img)
+    juarez5(img)
 
-    pando(img)
+    pando1(img)
+    pando2(img)
+    pando3(img)
+    pando4(img)
+    pando5(img)
+    pando6(img)
 
-    kiyosaki(img)
+    kiyosaki1(img)
+    kiyosaki2(img)
+    kiyosaki3(img)
 
-    tapia(img)
+    tapia1(img)
+    tapia2(img)
+    tapia3(img)
+    tapia4(img)
 
-    lolo(img)
+    lolo1(img)
+    lolo2(img)
 
-    manfred(img)
+    manfred1(img)
+    manfred2(img)
+    manfred3(img)
+    manfred4(img)
 
-    peru(img)
+    peru1(img)
+    peru2(img)
+    peru3(img)
+    peru4(img)
+    peru5(img)
+    peru6(img)
+    peru7(img)
 
-    wallstreet(img)
+    wallstreet1(img)
+    wallstreet2(img)
+    wallstreet3(img)
+    wallstreet4(img)
+    wallstreet5(img)
+    wallstreet6(img)
+    wallstreet7(img)
+    wallstreet8(img)
+    wallstreet9(img)
 
-    topater(img)
+    topater1(img)
+    topater2(img)
+    topater3(img)
+    topater4(img)
+    topater5(img)
+    topater6(img)
+    topater7(img)
+    topater8(img)
+    topater9(img)
 
-    alegria(img)
+    alegria1(img)
+    alegria2(img)
+    alegria3(img)
+    alegria4(img)
+    alegria5(img)
 
-    avaroa(img)
+    avaroa1(img)
+    avaroa2(img)
+    avaroa3(img)
+    avaroa4(img)
+    avaroa5(img)
+    avaroa6(img)
+    avaroa7(img)
+    avaroa8(img)
 
-    esperanza(img)
+    esperanza1(img)
+    esperanza2(img)
+    esperanza3(img)
+    esperanza4(img)
+    esperanza5(img)
+    esperanza6(img)
+    esperanza7(img)
+    esperanza8(img)
+    esperanza9(img)
+    esperanza10(img)
 
     cv2.imshow('img',img)
     cv2.waitKey(0)
@@ -2238,135 +2320,214 @@ def tromp9(img):
 
 def heroinas1(img):
     pintarhorizontal2(img,520,25,643,4)
+def heroinas2(img):
     pintarhorizontal2(img,560,25,643,4)
+def heroinas3(img):
     pintarhorizontal2(img,600,30,643,4)
+def heroinas4(img):
     pintardiagonal2(img,650,25,643,4)
+def heroinas5(img):
     pintardiagonal2(img,680,25,673,4)
+def heroinas6(img):
     pintardiagonal2(img,710,30,703,4)
+def heroinas7(img):
     pintardiagonal22(img,680,25,608,4)
+def heroinas8(img):
     pintardiagonal22(img,715,25,578,4)
+def heroinas9(img):
     pintardiagonal22(img,740,20,550,4)
 
-def espania(img):
+def espania1(img):
     pintarhorizontal2(img,716,25,550,4)
+def espania2(img):
     pintarhorizontal2(img,750,25,550,4)
+def espania3(img):
     pintarhorizontal2(img,680,25,550,4)
+def espania4(img):
     pintarhorizontal2(img,640,25,550,4)
+def espania5(img):
     pintarhorizontal2(img,600,25,550,4)
+def espania6(img):
     pintarhorizontal2(img,560,25,550,4)
 
-def franco(img):
+def franco1(img):
     pintarhorizontal2(img,775,25,520,3)
+def franco2(img):
     pintarhorizontal2(img,745,25,520,3)
+def franco3(img):
     pintarhorizontal2(img,715,25,520,3)
+def franco4(img):
     pintarhorizontal2(img,685,20,520,3)
 
-def chiriguano(img):
+def chiriguano1(img):
     pintarhorizontal2(img,775,25,465,3)
+def chiriguano2(img):
     pintarhorizontal2(img,735,25,465,3)
+def chiriguano3(img):
     pintarhorizontal2(img,705,20,465,3)
 
-def chaco(img):
+def chaco1(img):
     pintarhorizontal2(img,778,20,436,3)
+def chaco2(img):
     pintarhorizontal2(img,748,20,437,3)
+def chaco3(img):
     pintarhorizontal2(img,718,20,437,3)
     
 
-def juarez(img):
+def juarez1(img):
     pintarhorizontal2(img,753,20,410,3)
+def juarez2(img):
     pintarhorizontal2(img,718,20,410,3)
+def juarez3(img):
     pintarhorizontal2(img,675,20,410,3)
+def juarez4(img):
     pintarhorizontal2(img,645,20,410,3)
+def juarez5(img):
     pintarhorizontal2(img,615,20,410,3)
 
-def pando(img):
+def pando1(img):
     pintarhorizontal2(img,778,20,373,3)
+def pando2(img):
     pintarhorizontal2(img,748,20,373,3)
+def pando3(img):
     pintarhorizontal2(img,723,20,373,3)
+def pando4(img):
     pintarhorizontal2(img,680,20,373,3)
+def pando5(img):
     pintarhorizontal2(img,650,20,373,3)
+def pando6(img):
     pintarhorizontal2(img,650,20,676,3)
 
-def kiyosaki(img):
+def kiyosaki1(img):
     pintarhorizontal2(img,620,20,676,3)
+def kiyosaki2(img):
     pintarhorizontal2(img,590,20,676,3)
+def kiyosaki3(img):
     pintarhorizontal2(img,560,20,676,3)
 
-def tapia(img):
+def tapia1(img):
     pintarhorizontal2(img,680,20,712,3)
+def tapia2(img):
     pintarhorizontal2(img,640,20,712,3)
+def tapia3(img):
     pintarhorizontal2(img,600,20,712,3)
+def tapia4(img):
     pintarhorizontal2(img,580,10,712,3)
 
-def lolo(img):
+def lolo1(img):
     pintarvertical2(img,600,25,735,3)
+def lolo2(img):
     pintarvertical2(img,600,25,700,3)
 
-def manfred(img):
+def manfred1(img):
     pintarvertical2(img,572,25,735,3)
+def manfred2(img):
     pintarvertical2(img,572,25,700,3)
+def manfred3(img):
     pintarvertical2(img,572,25,665,3)
+def manfred4(img):
     pintarvertical2(img,572,25,630,3)
 
-def peru(img):
+def peru1(img):
     pintarvertical2(img,627,25,690,3)
+def peru2(img):
     pintarvertical2(img,627,25,640,3)
+def peru3(img):
     pintarvertical2(img,627,25,600,3)
+def peru4(img):
     pintarvertical2(img,627,25,560,3)
+def peru5(img):
     pintarvertical2(img,651,25,600,3)
+def peru6(img):
     pintarvertical2(img,651,25,560,3)
+def peru7(img):
     pintarvertical2(img,683,25,560,3)
 
-def wallstreet(img):
+def wallstreet1(img):
     pintardiagonal22(img,615,10,527,8)
+def wallstreet2(img):
     pintardiagonal22(img,635,10,516,8)
+def wallstreet3(img):
     pintardiagonal22(img,655,10,502,8)
+def wallstreet4(img):
     pintardiagonal22(img,675,10,484,8)
+def wallstreet5(img):
     pintardiagonal22(img,695,10,456,8)
+def wallstreet6(img):
     pintardiagonal22(img,705,8,420,10)
+def wallstreet7(img):
     pintardiagonal22(img,710,8,395,10)
+def wallstreet8(img):
     pintarvertical2(img,705,10,380,6)
+def wallstreet9(img):
     pintarvertical2(img,705,10,360,6)
 
-def topater(img):
+def topater1(img):
     pintardiagonal22(img,555,6,488,6)
+def topater2(img):
     pintardiagonal22(img,575,6,484,6)
+def topater3(img):
     pintardiagonal22(img,593,6,478,6)
+def topater4(img):
     pintardiagonal22(img,611,6,468,6)
+def topater5(img):
     pintardiagonal22(img,631,6,458,6)
+def topater6(img):
     pintardiagonal22(img,646,6,443,6)
+def topater7(img):
     pintardiagonal22(img,660,6,417,6)
+def topater8(img):
     pintarvertical2(img,658,10,400,4)
+def topater9(img):
     pintarvertical2(img,658,10,380,4)
 
-def alegria(img):
+def alegria1(img):
     pintardiagonal2(img,560,6,525,6)
+def alegria2(img):
     pintardiagonal2(img,560,6,505,6)
+def alegria3(img):
     pintardiagonal2(img,560,6,485,6)
+def alegria4(img):
     pintardiagonal2(img,560,6,465,6)
+def alegria5(img):
     pintardiagonal2(img,560,6,450,6)
 
-def avaroa(img):
+def avaroa1(img):
     pintardiagonal2(img,600,6,430,6)
+def avaroa2(img):
     pintardiagonal2(img,617,6,450,6)
+def avaroa3(img):
     pintardiagonal2(img,636,6,470,6)
+def avaroa4(img):
     pintardiagonal2(img,650,6,490,6)
+def avaroa5(img):
     pintardiagonal2(img,630,6,422,6)
+def avaroa6(img):
     pintardiagonal2(img,645,6,435,6)
+def avaroa7(img):
     pintardiagonal2(img,655,6,445,6)
+def avaroa8(img):
     pintardiagonal2(img,666,6,451,6)
 
-def esperanza(img):
+def esperanza1(img):
     pintarvertical2(img,751,20,415,4)
+def esperanza2(img):
     pintarvertical2(img,751,20,385,4)
-    
+def esperanza3(img):
     pintarvertical2(img,548,15,565,4)
+def esperanza4(img):
     pintarvertical2(img,548,15,585,4)
+def esperanza5(img):
     pintarvertical2(img,548,15,605,4)
+def esperanza6(img):
     pintarvertical2(img,548,15,625,4)
+def esperanza7(img):
     pintarvertical2(img,548,15,645,4)
+def esperanza8(img):
     pintarvertical2(img,545,15,665,4)
+def esperanza9(img):
     pintarvertical2(img,545,15,685,4)
+def esperanza10(img):
     pintarvertical2(img,545,15,705,4)
 
 cargarGrafico(lista)
